@@ -10,4 +10,4 @@ Fitur Pada InstaMath :
 	- Menghitung Luas Bangun Datar 
 
 
-<<--------------------------UNIVERSITAS AMIKOM YOGKAKARTA----------------->>>
+<<--------------------------UNIVERSITAS AMIKOM YOGYAKARTA----------------->>>
